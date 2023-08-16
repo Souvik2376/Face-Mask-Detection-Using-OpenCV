@@ -17,7 +17,15 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Data-Science-Machine-Learning-Projects
+  cd Face-Mask-Detection-Using-OpenCV
+
+```
+
+Go to the notebook directory
+
+```bash
+  cd Notebook
+
 ```
 
 Run project ( First open command promt or powershell )
