@@ -33,6 +33,9 @@ Run project ( First open command promt or powershell )
 ```bash
   jupyter notebook
 ```
+## License
+[MIT LICENSE](LICENSE)
+
 
 ## Authors
 
